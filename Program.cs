@@ -1,6 +1,5 @@
 ﻿public class CaesarCipher
 {
-    //символы русской азбуки
     const string RussianAlphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
     const string EnglishAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
